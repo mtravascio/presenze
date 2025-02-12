@@ -1,0 +1,11 @@
+# The value of AppId uniquely identifies this application.
+# Do not use the same AppId value in installers for other applications.
+app_id: 12345678-0000-1111-2222-345678934567
+publisher: Massimo Travascio
+publisher_url: https://github.com/mtravascio/presenze
+display_name: Elabora Presenze
+create_desktop_icon: true
+# See: https://jrsoftware.org/ishelp/index.php?topic=setup_defaultdirname
+# install_dir_name: "D:\\HELLO-WORLD"
+locales:
+  - it
