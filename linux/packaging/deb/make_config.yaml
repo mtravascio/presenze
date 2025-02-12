@@ -1,0 +1,22 @@
+display_name: elabora-presenze
+package_name: presenze
+maintainer:
+  name: Massimo Travascio
+  email: mtravasciocisia@gmail.com
+priority: optional
+section: x11
+installed_size: 10000
+essential: false
+
+postinstall_scripts:
+  - echo "Installed awesome app"
+postuninstall_scripts:
+  - echo "Goodbye!"
+
+generic_name: Elabora Presenze
+
+categories:
+  - Utility
+
+startup_notify: true
+

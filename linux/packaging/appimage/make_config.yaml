@@ -1,0 +1,11 @@
+display_name: presenze
+
+keywords:
+  - Utility
+
+generic_name: Elenco Presenze
+
+categories:
+  - Utility
+
+startup_notify: true
