@@ -125,7 +125,7 @@ class FileController extends GetxController {
 
     // Crea un nuovo file Excel di output
     final outputFile = await createOutputFile(userInfo);
-    Get.snackbar('Successo', 'File salvato come Presenze.xlsx');
+    Get.snackbar('Successo', 'File Presenze.xlsx salvato in Documenti');
   }
 
 // Ordinamento delle date per ogni nome
