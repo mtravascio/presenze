@@ -1,10 +1,7 @@
 display_name: Elenco Presenze
 msix_version: 1.0.0.1
-<<<<<<< HEAD
 certificate_path: C:\dev\presenze\app_regeomaria_net.pfx
 certificate_password: 34v3M4r14
 #logo_path: c:\dev\presenze\assets\icon.png
 #Certificato da inserire tra le Autorità root di certificazione attendibili
-=======
-# logo_path: C:\path\to\logo.png
->>>>>>> a6e2d9a74451387e89158235236fac3bcc9c2584
+
